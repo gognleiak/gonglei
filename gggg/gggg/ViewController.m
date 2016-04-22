@@ -9,7 +9,8 @@
 #import "ViewController.h"
 
 @interface ViewController ()
-
+/**<#注释#> */
+@property (nonatomic, strong) NSString *name;
 @end
 
 @implementation ViewController
